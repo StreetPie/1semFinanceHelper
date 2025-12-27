@@ -1,3 +1,9 @@
+# ИСКЛЮЧЕНИЯ - эти файлы НЕ игнорировать
+!frontend/
+!frontend/*
+!frontend/app.py
+!requirements.txt
+!app.py
 # Python
 __pycache__/
 *.py[cod]
