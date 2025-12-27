@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="806a6d0d-a10e-4fda-8098-c933bae41e42" name="Changes" comment="sss2" />
+    <list default="true" id="806a6d0d-a10e-4fda-8098-c933bae41e42" name="Changes" comment="&#10;вв">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,8 +51,9 @@
       <recent name="C:\Users\Dimas\Desktop\Study\Python\1semFinanceHelper\frontend" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Dimas\Desktop\Study\Python\1semFinanceHelper\frontend" />
       <recent name="C:\Users\Dimas\Desktop\Study\Python\1semFinanceHelper" />
+      <recent name="C:\Users\Dimas\Desktop\Study\Python\1semFinanceHelper\backend" />
+      <recent name="C:\Users\Dimas\Desktop\Study\Python\1semFinanceHelper\frontend" />
       <recent name="C:\Users\Dimas\Desktop\Учебная\Python\Test\backend" />
       <recent name="C:\Users\Dimas\Desktop\Учебная\Python\Test" />
     </key>
@@ -159,12 +162,29 @@
       <option name="project" value="LOCAL" />
       <updated>1766842372860</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="&#10;вв">
+      <option name="closed" value="true" />
+      <created>1766842444783</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1766842444783</updated>
+    </task>
+    <task id="LOCAL-00010" summary="&#10;вв">
+      <option name="closed" value="true" />
+      <created>1766842648114</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1766842648114</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sss" />
     <MESSAGE value="sss2" />
-    <option name="LAST_COMMIT_MESSAGE" value="sss2" />
+    <MESSAGE value="&#10;вв" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;вв" />
   </component>
 </project>
