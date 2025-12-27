@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="806a6d0d-a10e-4fda-8098-c933bae41e42" name="Changes" comment="sss">
-      <change beforePath="$PROJECT_DIR$/frontend/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    <list default="true" id="806a6d0d-a10e-4fda-8098-c933bae41e42" name="Changes" comment="sss2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,11 +101,20 @@
       <option name="project" value="LOCAL" />
       <updated>1766840519456</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sss2">
+      <option name="closed" value="true" />
+      <created>1766841332742</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766841332742</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sss" />
-    <option name="LAST_COMMIT_MESSAGE" value="sss" />
+    <MESSAGE value="sss2" />
+    <option name="LAST_COMMIT_MESSAGE" value="sss2" />
   </component>
 </project>
