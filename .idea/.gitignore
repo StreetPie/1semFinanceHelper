@@ -1,27 +1,29 @@
-# Игнорировать ВСЕ .py файлы, КРОМЕ:
-!app.py
-!*/app.py
-!*.py  # но это опасная строка!
-
-# Лучше так:
+# Python
 __pycache__/
-*.pyc
-.python-version
+*.py[cod]
+*$py.class
+*.so
+.Python
 
-# Виртуальные окружения
+# Virtual environments
 venv/
 .venv/
 env/
+ENV/
 
 # IDE
 .idea/
 .vscode/
 *.swp
 *.swo
+*~
 
-# Системные файлы
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
 .DS_Store
 Thumbs.db
 
-# Streamlit
-.streamlit/secrets.toml  # только секреты!
+# Streamlit secrets only
+.streamlit/secrets.toml
